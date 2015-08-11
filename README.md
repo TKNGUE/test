@@ -3,8 +3,5 @@ test repository
 
 実験用リポジトリです
 
-aasdf
-asdfasdfasdf
-asdf
-asdfasdf
-asdfasdf
+Githubのリポジトリにふっくします
+
