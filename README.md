@@ -3,6 +3,6 @@ test repository
 
 実験用リポジトリです
 
-aasdf
-asdfasdfasdf
-asdfasdf
+TechCampDemo用にGit hookを行います.
+
+
